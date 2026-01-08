@@ -22,6 +22,7 @@ function App() {
         <div className="banner">
           <img src="/Car Bannerr.avif " alt="" />
         </div>
+        <h1>Lets Start The Journey</h1>
       </section>
     </>
   )
